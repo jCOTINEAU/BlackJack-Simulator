@@ -10,8 +10,8 @@ from importer.StrategyImporter import StrategyImporter
 
 
 GAMES = 20000
-SHOE_SIZE = 6
-SHOE_PENETRATION = 0.25
+SHOE_SIZE = 8
+SHOE_PENETRATION = 0.5
 BET_SPREAD = 20.0
 
 DECK_SIZE = 52.0
